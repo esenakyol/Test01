@@ -8,6 +8,6 @@ public class MyThirdClass {
 
         int y = 0;
         
-        System.out.println("I am doing my another commit to this version");
+        System.out.println("THIS IS REMOTE REPO CODE");
     }
 }
