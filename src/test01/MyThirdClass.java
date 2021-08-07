@@ -7,5 +7,7 @@ public class MyThirdClass {
         System.out.println(sum);
 
         int y = 0;
+        
+        System.out.println("I am doing my another commit to this version");
     }
 }
