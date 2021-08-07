@@ -7,8 +7,9 @@ public class MyThirdClass {
         System.out.println(sum);
 
         int y = 0;
-        String str = "Java";
 
+        String str = "Java";
+        int z =10;
         System.out.println("THIS IS REMOTE REPO CODE");
     }
 }
